@@ -1,0 +1,18 @@
+[{
+    "title":"Linha Ouro",
+    "desc":"Produto novo, nenhum sinal de utilização, produto sem detalhes, possui embalagem em bom estado, não acompanha acessórios.",
+    "img":"ouroCoin.png"
+    
+},
+{
+    "title":"Linha Prata",
+    "desc":"Produto novo, com pouco sinal de utilização ou pequenos riscos imperceptíveis, possui embalagem avariada, não acompanha acessórios.",
+    "img":"silverCoin.png"
+    
+},
+{
+    "title":"Linha Bronze",
+    "desc":"Pode conter sinais de uso um pouco mais nítidos como riscos por exemplo. Lateral pode apresentar partes descascadas ou arranhões. Parte traseira também podem apresentar sinais de uso visíveis. Não acompanha acessórios nem embalagem",
+    "img":"bronzeCoin.png"
+    
+}]

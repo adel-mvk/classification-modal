@@ -1,0 +1,39 @@
+.root{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.coin-frist,.coin-second{
+    display: grid;
+    align-items: center;
+    grid-auto-rows: minmax(100px, 150px);
+    justify-content: center;
+    grid-template-columns: 50px 250px;
+}
+.special{
+    margin-top: 25px;
+}
+.img-coin{
+    width: 68px;
+}
+.all-coin{
+    margin-top: 25px;
+    width: 350px;
+}
+.title-coin{
+    font-weight: 700;
+}
+
+:root p{
+    font-family: Heebo, sans-serif;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.important{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
